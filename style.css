@@ -1,0 +1,32 @@
+body  {
+    background-color: rgb(255, 255, 255);
+}
+div {color: aqua
+    ;background-color: brown;}
+    #p1{color: azure;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+#p2{color: brown;
+font-family: "consolas";
+text-decoration:cadetblue underline;
+border-style:rgb(0, 0, 0)
+
+
+ dashed;
+
+}
+#p3{color: blueviolet;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+text-decoration: magenta wavy underline;
+}
+.odd{background-color: chocolate;}
+.even{background-color: cadetblue;}
+h1{color: rgb(11, 12, 12);
+    font-family:"Press Start 2P";
+
+}
+p{
+font-style: italic;
+font-weight: bold;
+
+}
